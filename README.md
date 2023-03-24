@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" width=400 height=400 src="https://media.tenor.com/-yDkSP2nGAUAAAAi/pokemon-magikarp.gif">
+<img align="center" width="400" height="400" src="https://media.tenor.com/-yDkSP2nGAUAAAAi/pokemon-magikarp.gif">
